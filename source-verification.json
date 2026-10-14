@@ -1,0 +1,15 @@
+{
+  "mod": "TESMIOINFLATION",
+  "build_passed": true,
+  "machine_code_identical": true,
+  "binary_identical_except_timestamps": true,
+  "timestamp_offsets": [
+    "0x108",
+    "0x1de54"
+  ],
+  "original_sha256": "8c41bea3b3fa627dd5827ff70d88a0f45653287b39efd7a50e0d42268765a7d7",
+  "rebuilt_sha256": "8fa10dba5e8896f1ed3e368a6f9ba5a5520478d230b95defd586b15dfafa1d42",
+  "normalized_sha256": "29a4a5b243c9875ab5d43f11e889d1a5175370afbf65914cc324587ee10ab95d",
+  "native_regression": "not run",
+  "live_game_test": "not run"
+}
